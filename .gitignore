@@ -5,3 +5,4 @@ output.jpg
 my-pictures/*
 data/me/*
 data/others/*
+/me-vs-others-model.keras
