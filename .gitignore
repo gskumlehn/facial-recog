@@ -1,2 +1,7 @@
 venv
 .idea
+OIDv6
+output.jpg
+my-pictures/*
+data/me/*
+data/others/*
